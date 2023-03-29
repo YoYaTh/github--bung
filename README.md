@@ -1,5 +1,5 @@
 # github--bung
-# Info:
+# Infos:
 * Yoshi 32 J
 * Schwarz
 * Deutsch
